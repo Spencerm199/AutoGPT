@@ -4,7 +4,6 @@ classic/original_autogpt/keys.py
 classic/original_autogpt/*.json
 auto_gpt_workspace/*
 *.mpeg
-.env
 azure.yaml
 .vscode
 .idea/*
@@ -121,7 +120,6 @@ celerybeat.pid
 
 # Environments
 .direnv/
-.env
 .venv
 env/
 venv*/
@@ -150,7 +148,6 @@ vicuna-*
 
 # mac
 .DS_Store
-
 openai/
 
 # news
